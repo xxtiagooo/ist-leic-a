@@ -15,19 +15,19 @@
 **LP** *(Lógica para Programação)*
 
 <a href="https://github.com/xxtiagooo/LP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=LP&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=LP&v=2" />
 </a>
 
 **IAED** *(Introdução aos Algoritmos e Estruturas de Dados)*
 
 <a href="https://github.com/xxtiagooo/IAED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IAED&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IAED&v=2" />
 </a>
 
 **IAC** *(Introdução à Arquitetura de Computadores)*
 
 <a href="https://github.com/xxtiagooo/IAC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IAC&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IAC&v=2" />
 </a>
 
 </details>
@@ -39,7 +39,7 @@
 **PO** *(Programação com Objetos)*
 
 <a href="https://github.com/xxtiagooo/PO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=PO&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=PO&v=2" />
 </a>
 
 **SO** *(Sistemas Operativos)*
@@ -84,9 +84,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=OC&v=1" />
 </a>
 
-**AP** *(Aprendizagem)*
+**Apre** *(Aprendizagem)*
 
-<a href="https://github.com/xxtiagooo/AP">
+<a href="https://github.com/xxtiagooo/Apre">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Apre&v=1" />
 </a>
 
