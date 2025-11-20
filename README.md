@@ -9,7 +9,7 @@
 **FP** *(Fundamentos da Programação)*
 
 <a href="https://github.com/xxtiagooo/FP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=FP" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=FP&v=1" />
 </a>
 
 **LP** *(Lógica para Programação)*
