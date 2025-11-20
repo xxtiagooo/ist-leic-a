@@ -84,9 +84,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=OC&v=1" />
 </a>
 
-**Apre** *(Aprendizagem)*
+**AP** *(Aprendizagem)*
 
-<a href="https://github.com/xxtiagooo/Apre">
+<a href="https://github.com/xxtiagooo/AP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Apre&v=1" />
 </a>
 
