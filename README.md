@@ -6,29 +6,10 @@
 <summary>1º Ano</summary>
 <br>
 
-**FP** *(Fundamentos da Programação)*
-
-<a href="https://github.com/xxtiagooo/FP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=FP" />
-</a>
-
-**LP** *(Lógica para Programação)*
-
-<a href="https://github.com/xxtiagooo/LP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=LP" />
-</a>
-
-**IAED** *(Introdução aos Algoritmos e Estruturas de Dados)*
-
-<a href="https://github.com/xxtiagooo/IAED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IAED" />
-</a>
-
-**IAC** *(Introdução à Arquitetura de Computadores)*
-
-<a href="https://github.com/xxtiagooo/IAC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IAC" />
-</a>
+- [**FP**](https://github.com/xxtiagooo/FP) - Fundamentos da Programação
+- [**LP**](https://github.com/xxtiagooo/LP) - Lógica para Programação  
+- [**IAED**](https://github.com/xxtiagooo/IAED) - Introdução aos Algoritmos e Estruturas de Dados
+- [**IAC**](https://github.com/xxtiagooo/IAC) - Introdução à Arquitetura de Computadores
 
 </details>
 
@@ -36,41 +17,12 @@
 <summary>2º Ano</summary>
 <br>
 
-**PO** *(Programação com Objetos)*
-
-<a href="https://github.com/xxtiagooo/PO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=PO" />
-</a>
-
-**SO** *(Sistemas Operativos)*
-
-<a href="https://github.com/xxtiagooo/SO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=SO" />
-</a>
-
-**ASA** *(Análise e Síntese de Algoritmos)*
-
-<a href="https://github.com/xxtiagooo/ASA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=ASA" />
-</a>
-
-**IPM** *(Interação Pessoa-Máquina)*
-
-<a href="https://github.com/xxtiagooo/IPM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IPM" />
-</a>
-
-**BD** *(Base de Dados)*
-
-<a href="https://github.com/xxtiagooo/BD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=BD" />
-</a>
-
-**IA** *(Inteligência Artificial)*
-
-<a href="https://github.com/xxtiagooo/IA">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IA" />
-</a>
+- [**PO**](https://github.com/xxtiagooo/PO) - Programação com Objetos
+- [**SO**](https://github.com/xxtiagooo/SO) - Sistemas Operativos
+- [**ASA**](https://github.com/xxtiagooo/ASA) - Análise e Síntese de Algoritmos
+- [**IPM**](https://github.com/xxtiagooo/IPM) - Interação Pessoa-Máquina
+- [**BD**](https://github.com/xxtiagooo/BD) - Base de Dados
+- [**IA**](https://github.com/xxtiagooo/IA) - Inteligência Artificial
 
 </details>
 
@@ -78,52 +30,17 @@
 <summary>3º Ano</summary>
 <br>
 
-**OC** *(Organização de Computadores)*
-
-<a href="https://github.com/xxtiagooo/OC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=OC" />
-</a>
-
-**Apre** *(Aprendizagem)*
-
-<a href="https://github.com/xxtiagooo/Apre">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Apre" />
-</a>
-
-**AMS** *(Análise e Modelação de Sistemas)*
-
-<a href="https://github.com/xxtiagooo/AMS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=AMS" />
-</a>
-
-**RC** *(Redes de Computadores)*
-
-<a href="https://github.com/xxtiagooo/RC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=RC" />
-</a>
-
-**ES** *(Engenharia de Software)*
-
-<a href="https://github.com/xxtiagooo/ES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=ES" />
-</a>
-
-**SD** *(Sistemas Distribuídos)*
-
-<a href="https://github.com/xxtiagooo/SD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=SD" />
-</a>
-
-**CO** *(Compiladores)*
-
-<a href="https://github.com/xxtiagooo/CO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=CO" />
-</a>
-
-**CG** *(Computação Gráfica)*
-
-<a href="https://github.com/xxtiagooo/CG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=CG" />
-</a>
+- [**OC**](https://github.com/xxtiagooo/OC) - Organização de Computadores
+- [**Apre**](https://github.com/xxtiagooo/Apre) - Aprendizagem
+- [**AMS**](https://github.com/xxtiagooo/AMS) - Análise e Modelação de Sistemas
+- [**RC**](https://github.com/xxtiagooo/RC) - Redes de Computadores
+- [**ES**](https://github.com/xxtiagooo/ES) - Engenharia de Software
+- [**SD**](https://github.com/xxtiagooo/SD) - Sistemas Distribuídos
+- [**CO**](https://github.com/xxtiagooo/CO) - Compiladores
+- [**CG**](https://github.com/xxtiagooo/CG) - Computação Gráfica
 
 </details>
+
+---
+
+*📚 Todos os repositórios são privados para fins académicos*
