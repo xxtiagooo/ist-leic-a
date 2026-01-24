@@ -9,29 +9,29 @@
 <b>FP</b> <i>(Fundamentos da Programação)</i> <br>
 
 <a href="https://github.com/xxtiagooo/MNK-FP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=MNK-FP&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=MNK-FP&v=2" />
 </a>
 
 <a href="https://github.com/xxtiagooo/Orbito-n-FP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Orbito-n-FP&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Orbito-n-FP&v=2" />
 </a>
 
 <b>LP</b> <i>(Lógica para Programação)</i> <br>
 
 <a href="https://github.com/xxtiagooo/Estrelas-LP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Estrelas-LP&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Estrelas-LP&v=2" />
 </a>
 
 <b>IAED</b> <i>(Introdução aos Algoritmos e Estruturas de Dados)</i> <br>
 
 <a href="https://github.com/xxtiagooo/Vacinas-IAED">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Vacinas-IAED&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Vacinas-IAED&v=2" />
 </a>
 
 <b>IAC</b> <i>(Introdução à Arquitetura de Computadores)</i> <br>
 
 <a href="https://github.com/xxtiagooo/Rede-Neuronal-IAC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Rede-Neuronal-IAC&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Rede-Neuronal-IAC&v=2" />
 </a>
 
 </details>
@@ -43,7 +43,7 @@
 <b>PO</b> <i>(Programação com Objetos)</i> <br>
 
 <a href="https://github.com/xxtiagooo/Biblioteca-PO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Biblioteca-PO&v=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Biblioteca-PO&v=2" />
 </a>
 
 <b>SO</b> <i>(Sistemas Operativos)</i> <br>
