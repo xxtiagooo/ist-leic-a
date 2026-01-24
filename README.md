@@ -18,10 +18,6 @@
 
 <b>LP</b> <i>(Lógica para Programação)</i> <br>
 
-<a href="https://github.com/xxtiagooo/labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=labs&v=1" />
-</a>
-
 <a href="https://github.com/xxtiagooo/Estrelas-LP">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Estrelas-LP&v=1" />
 </a>
@@ -30,10 +26,6 @@
 
 <a href="https://github.com/xxtiagooo/Vacinas-IAED">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Vacinas-IAED&v=1" />
-</a>
-
-<a href="https://github.com/xxtiagooo/labs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=labs&v=2" />
 </a>
 
 <b>IAC</b> <i>(Introdução à Arquitetura de Computadores)</i> <br>
