@@ -68,8 +68,12 @@
 
 <b>IPM</b> <i>(Interação Pessoa-Máquina)</i> <br>
 
-<a href="https://github.com/xxtiagooo/IPM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=IPM&v=1" />
+<a href="https://github.com/xxtiagooo/Receitas-IPM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Receitas-IPM&v=1" />
+</a>
+
+<a href="https://github.com/xxtiagooo/Dense-UI-IPM">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xxtiagooo&theme=midnight-purple&hide_border=true&repo=Dense-UI-IPM&v=1" />
 </a>
 
 <b>BD</b> <i>(Base de Dados)</i> <br>
